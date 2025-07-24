@@ -1,0 +1,11 @@
+$(document).ready(function(){
+	
+	
+	$('enviarBoton').click(function(){
+		var valorInput = $('#nombre').val()
+		console.log("valor"+valorInput)
+		
+	})
+	
+	
+})

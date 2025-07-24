@@ -1,0 +1,6 @@
+$(document).ready(function(){
+    $('enviarBoton').click(function(){ // 🚨 Missing '#' for ID selector
+        var valorInput = $('#nombre').val()
+        console.log("valor"+valorInput);
+    })
+})

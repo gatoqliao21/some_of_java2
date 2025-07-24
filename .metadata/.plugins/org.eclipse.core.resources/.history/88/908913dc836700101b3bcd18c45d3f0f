@@ -1,0 +1,12 @@
+$.ajax{
+	url:'servlet_pacientes',
+	type : 'POST',
+	
+	data:{
+		nombre: document.getelementbyid("nombre")
+		
+	},
+	
+	
+	
+}

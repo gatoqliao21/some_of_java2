@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+form{
+    display: flex
+;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;	
+}
+
+
+#container{
+	    align-items: center;
+    display: flex
+;
+    flex-direction: column;
+	
+}

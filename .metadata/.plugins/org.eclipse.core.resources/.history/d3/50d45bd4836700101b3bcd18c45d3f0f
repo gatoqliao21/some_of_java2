@@ -1,0 +1,6 @@
+$.ajax{
+	url:'servlet_pacientes'
+	
+	
+	
+}
