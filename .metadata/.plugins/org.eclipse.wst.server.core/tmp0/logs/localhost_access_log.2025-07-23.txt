@@ -1,0 +1,9 @@
+127.0.0.1 - - [23/Jul/2025:00:34:39 -0500] "GET / HTTP/1.1" 404 688
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:00:34:41 -0500] "GET /mi_proyecto_gestion/Registro.jsp HTTP/1.1" 200 4085
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:00:34:41 -0500] "GET /assets/js/pacientes.js HTTP/1.1" 404 718
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:00:34:41 -0500] "GET /mi_proyecto_gestion/css/registro.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:00:35:11 -0500] "POST /submit_patient_data HTTP/1.1" 404 707
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:00:40:20 -0500] "GET /mi_proyecto_gestion/Registro.jsp HTTP/1.1" 200 655
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:00:40:20 -0500] "GET /assets/js/pacientes.js HTTP/1.1" 404 718
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:00:42:19 -0500] "GET /mi_proyecto_gestion/Registro.jsp HTTP/1.1" 200 818
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:00:42:19 -0500] "GET /assets/js/pacientes.js HTTP/1.1" 404 718
